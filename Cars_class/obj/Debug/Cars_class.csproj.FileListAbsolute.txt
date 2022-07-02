@@ -1,0 +1,8 @@
+C:\Users\npand\repos\Cars_class\Cars_class\bin\Debug\Cars_class.exe.config
+C:\Users\npand\repos\Cars_class\Cars_class\bin\Debug\Cars_class.exe
+C:\Users\npand\repos\Cars_class\Cars_class\bin\Debug\Cars_class.pdb
+C:\Users\npand\repos\Cars_class\Cars_class\obj\Debug\Cars_class.csproj.AssemblyReference.cache
+C:\Users\npand\repos\Cars_class\Cars_class\obj\Debug\Cars_class.csproj.SuggestedBindingRedirects.cache
+C:\Users\npand\repos\Cars_class\Cars_class\obj\Debug\Cars_class.csproj.CoreCompileInputs.cache
+C:\Users\npand\repos\Cars_class\Cars_class\obj\Debug\Cars_class.exe
+C:\Users\npand\repos\Cars_class\Cars_class\obj\Debug\Cars_class.pdb
